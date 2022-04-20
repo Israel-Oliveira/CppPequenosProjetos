@@ -24,4 +24,7 @@ int main(){
 		cout << "O valor com o delta positivo é:"<<x1;
 		cout << "O valor com o delta negativo é:"<<x2;
 	}
+	
+	system("pause");
+	return 0;
 }
